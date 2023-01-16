@@ -1,0 +1,11 @@
+venv
+data
+bck_up
+.ipynb_checkpoints
+.vscode/settings.json
+__pycache__
+*.pyc
+materials
+.idea
+.virtual_documents
+*.png
