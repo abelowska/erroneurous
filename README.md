@@ -1,2 +1,7 @@
-# erpinator
-ERP classificator and explainator
+# erroNeurous
+
+
+
+
+## Abstract
+
